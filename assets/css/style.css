@@ -1,0 +1,52 @@
+#title{
+background-color: #EEEEEE;
+
+}
+.logo1{
+  color: #00ADB5; 
+}
+.container-fluid{
+padding: 7% 15%;
+  text-align: center;
+}
+
+.linee{
+  color: #31373e;
+  height: 1px;
+}
+
+.card {
+  text-align: center;
+  display: inline-block;
+  background-color: inherit;
+  border: solid 15px;
+  border-width: thin;
+  width: 300px;
+  margin: 30px;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.card1 {
+  text-align: center;
+  display: inline-block;
+  background-color: inherit;
+  border: solid 15px;
+  border-width: thin;
+  width: 300px;
+  margin: 30px;
+}
+
+.card-text1 {
+  text-align: center;
+}
+.alert-light{
+  background-color: #00ADB5;
+}
+.button{
+background-color: #00ADB5;}
+.img{
+
+}
